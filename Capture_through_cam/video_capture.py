@@ -2,7 +2,7 @@
 """
 Created on Wed Jul  1 20:51:24 2020
 
-@author: ShantanuRM
+@author: Santanu Barman
 """
 ##importing OpenCv and time 
 import cv2, time
